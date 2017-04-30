@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Akbar: Een Oostersche Roman</dc:title>
+      <dc:creator>Mr. Petrus Abraham Samuël van Limburg Brouwer (1829–1873)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2004-10-01</dc:publisher>
+      <dc:date>2004-10-01</dc:date>
+      <dc:rights>This book is in the Public Domain.
+First publication: 1872. This electronic edition is based on the third printed edition of 1878.
+An English translation is available as: Akbar (An Eastern Romance). W. H. Allen &amp; Co., London, 1879. 19.5×13.5 cm, xlviii + 348 pp.
+A German translation is available as: Akbar, ein indischer Roman. Deutsche autorisirte Ausg., aus dem Niederländischen von Lina Schneider. H. Killinger, Leipzig, 1877. 346 pp.
+An Esperanto translation is available as: Akbar: Oriento Romano. Trad. Julia C. Isbrücker-Dirksen; Internacia CSEH-Instituto de Esperanto, Den Haag, 1923.
+This is also one of the few Dutch books that has been translated into the South Indian language Malayalam, but I have not been able to locate publication details.
+
+</dc:rights>
+      <dc:identifier>pg:6712</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
